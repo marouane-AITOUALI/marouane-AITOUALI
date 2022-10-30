@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marouane-AITOUALI
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently studying in the third year of computer science
+- 🌱 I’m currently studying in the third year of computer science degree
 - 📫 You can reach me via my linkedin profile: https://www.linkedin.com/in/aitouali/
 
 <!---
